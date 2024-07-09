@@ -1,0 +1,11 @@
+#-e .
+pandas 
+numpy
+flask
+requests
+patsy
+email-validator
+flask_mysqldb
+flask_wtf
+wtforms
+wtforms.validators
